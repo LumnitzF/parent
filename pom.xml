@@ -10,7 +10,7 @@
 
     <name>io.github.lumnitzf:parent</name>
     <description>Base parent pom for all projects</description>
-    <url>https://github.com/lumnitzf/parent</url>
+    <url>https://github.com/lumnitzf/parent-pom</url>
 
     <licenses>
         <license>
@@ -28,9 +28,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/lumnitzf/parent.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/LumnitzF/parent.git</developerConnection>
-        <url>http://github.com/lumnitzf/parent/tree/master</url>
+        <connection>scm:git:git://github.com/lumnitzf/parent-pom.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/LumnitzF/parent-pom.git</developerConnection>
+        <url>http://github.com/lumnitzf/parent-pom/tree/master</url>
         <tag>HEAD</tag>
     </scm>
 

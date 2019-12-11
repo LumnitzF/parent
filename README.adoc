@@ -1,0 +1,6 @@
+= Parent
+
+image:https://maven-badges.herokuapp.com/maven-central/io.github.lumnitzf/parent/badge.svg["Maven Central", link="https://maven-badges.herokuapp.com/maven-central/io.github.lumnitzf/parent"]
+image:https://travis-ci.com/LumnitzF/parent.svg?branch=master["Build Status", link="https://travis-ci.com/LumnitzF/parent"]
+
+Parent pom for all my maven projects
